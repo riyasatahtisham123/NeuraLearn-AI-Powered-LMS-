@@ -1,0 +1,17 @@
+dashboard {"hash":"#/","overflowX":false,"scrollW":1440,"clientW":1440,"wide":[],"charts":4,"emptyCharts":0,"h":2199,"text":2865} dashboard.png (1440x2199)
+courses {"hash":"#/courses","overflowX":false,"scrollW":1440,"clientW":1440,"wide":[],"charts":0,"emptyCharts":0,"h":900,"text":1596} courses.png (1440x900)
+course-detail {"hash":"#/courses/1","overflowX":false,"scrollW":1440,"clientW":1440,"wide":[],"charts":0,"emptyCharts":0,"h":1588,"text":1869} course-detail.png (1440x1588)
+resources {"hash":"#/resources","overflowX":false,"scrollW":1440,"clientW":1440,"wide":[],"charts":0,"emptyCharts":0,"h":8581,"text":7186} resources.png (1440x8581)
+recommendations {"hash":"#/recommendations","overflowX":false,"scrollW":1440,"clientW":1440,"wide":[],"charts":0,"emptyCharts":0,"h":3225,"text":5587} recommendations.png (1440x3225)
+learning-path {"hash":"#/learning-path","overflowX":false,"scrollW":1440,"clientW":1440,"wide":[],"charts":0,"emptyCharts":0,"h":1818,"text":3583} learning-path.png (1440x1818)
+tab Topic analysis {"hash":"#/performance","overflowX":false,"scrollW":1440,"clientW":1440,"wide":[],"charts":2,"emptyCharts":0,"h":1914,"text":2448}
+tab Progress trend {"hash":"#/performance","overflowX":false,"scrollW":1440,"clientW":1440,"wide":[],"charts":5,"emptyCharts":0,"h":1546,"text":2019}
+tab Score prediction {"hash":"#/performance","overflowX":false,"scrollW":1440,"clientW":1440,"wide":[],"charts":1,"emptyCharts":0,"h":2045,"text":2320}
+tab Attempt history {"hash":"#/performance","overflowX":false,"scrollW":1440,"clientW":1440,"wide":[],"charts":0,"emptyCharts":0,"h":1558,"text":2334}
+performance {"hash":"#/performance","overflowX":false,"scrollW":1440,"clientW":1440,"wide":[],"charts":3,"emptyCharts":0,"h":2387,"text":2667} performance.png (1440x2387)
+profile {"hash":"#/profile","overflowX":false,"scrollW":1440,"clientW":1440,"wide":[],"charts":0,"emptyCharts":0,"h":2336,"text":2894} profile.png (1440x2336)
+CONSOLE/PAGE ERRORS: [
+ "console.error: Warning: %s: Support for defaultProps will be removed from function components in a future major release. Use JavaScript default parameters instead.%s XAxis \n    at XAxis2 (http://localhost:5173/node_modules/.vite/deps/recharts.js?v=e995ac70:28465:22)\n    at svg\n    at Surface (http://localhost:5173/node_modules/.vite/deps/recharts.js?v=e995ac70:5886:25)\n    at div\n    at ChartLayoutContextProvide",
+ "console.error: Warning: %s: Support for defaultProps will be removed from function components in a future major release. Use JavaScript default parameters instead.%s YAxis \n    at YAxis2 (http://localhost:5173/node_modules/.vite/deps/recharts.js?v=e995ac70:28526:22)\n    at svg\n    at Surface (http://localhost:5173/node_modules/.vite/deps/recharts.js?v=e995ac70:5886:25)\n    at div\n    at ChartLayoutContextProvide",
+ "console.error: Warning: %s: Support for defaultProps will be removed from function components in a future major release. Use JavaScript default parameters instead.%s ReferenceLine \n    at ReferenceLine (http://localhost:5173/node_modules/.vite/deps/recharts.js?v=e995ac70:25278:22)\n    at svg\n    at Surface (http://localhost:5173/node_modules/.vite/deps/recharts.js?v=e995ac70:5886:25)\n    at div\n    at ChartLayou"
+]

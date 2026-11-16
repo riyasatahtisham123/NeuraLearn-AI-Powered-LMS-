@@ -1,0 +1,12 @@
+quiz loaded true {"hash":"#/quiz/11","overflowX":false,"scrollW":1440,"clientW":1440,"wide":[],"charts":0,"emptyCharts":0,"h":2034,"text":1359}
+answered 4 4 / 4 answered
+result url #/result/57 {"hash":"#/result/57","overflowX":false,"scrollW":1440,"clientW":1440,"wide":[],"charts":0,"emptyCharts":0,"h":2897,"text":2691}
+result has review true
+recs after quiz {"hash":"#/recommendations","overflowX":false,"scrollW":1440,"clientW":1440,"wide":[],"charts":0,"emptyCharts":0,"h":3225,"text":5663} recs-after-quiz.png (1440x3225)
+performance after quiz 
+student blocked from admin #/
+CONSOLE/PAGE ERRORS: [
+ "console.error: Warning: %s: Support for defaultProps will be removed from function components in a future major release. Use JavaScript default parameters instead.%s XAxis \n    at XAxis2 (http://localhost:5173/node_modules/.vite/deps/recharts.js?v=e995ac70:28465:22)\n    at svg\n    at Surface (http://localhost:5173/node_modules/.vite/deps/recharts.js?v=e995ac70:5886:25)\n    at div\n    at ChartLayoutContextProvide",
+ "console.error: Warning: %s: Support for defaultProps will be removed from function components in a future major release. Use JavaScript default parameters instead.%s YAxis \n    at YAxis2 (http://localhost:5173/node_modules/.vite/deps/recharts.js?v=e995ac70:28526:22)\n    at svg\n    at Surface (http://localhost:5173/node_modules/.vite/deps/recharts.js?v=e995ac70:5886:25)\n    at div\n    at ChartLayoutContextProvide",
+ "console.error: Warning: %s: Support for defaultProps will be removed from function components in a future major release. Use JavaScript default parameters instead.%s ReferenceLine \n    at ReferenceLine (http://localhost:5173/node_modules/.vite/deps/recharts.js?v=e995ac70:25278:22)\n    at svg\n    at Surface (http://localhost:5173/node_modules/.vite/deps/recharts.js?v=e995ac70:5886:25)\n    at div\n    at ChartLayou"
+]

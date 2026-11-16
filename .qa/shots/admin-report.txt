@@ -1,0 +1,17 @@
+admin {"hash":"#/admin","overflowX":false,"scrollW":1440,"clientW":1440,"wide":[],"charts":5,"emptyCharts":0,"h":2917,"text":3385} admin.png (1440x2917)
+student drawer {"hash":"#/admin/students","overflowX":false,"scrollW":1440,"clientW":1440,"wide":[],"charts":3,"emptyCharts":0,"h":900,"text":3176} admin-student-drawer.png (1440x900)
+admin-students {"hash":"#/admin/students","overflowX":false,"scrollW":1440,"clientW":1440,"wide":[],"charts":0,"emptyCharts":0,"h":900,"text":1464} admin-students.png (1440x900)
+analytics tab Topic difficulty {"hash":"#/admin/analytics","overflowX":false,"scrollW":1440,"clientW":1440,"wide":[],"charts":4,"emptyCharts":0,"h":2228,"text":2274}
+analytics tab Compare learners {"hash":"#/admin/analytics","overflowX":false,"scrollW":1440,"clientW":1440,"wide":[],"charts":1,"emptyCharts":0,"h":1595,"text":1627}
+analytics tab Distributions {"hash":"#/admin/analytics","overflowX":false,"scrollW":1440,"clientW":1440,"wide":[],"charts":4,"emptyCharts":0,"h":1807,"text":1656}
+analytics tab Study vs score {"hash":"#/admin/analytics","overflowX":false,"scrollW":1440,"clientW":1440,"wide":[],"charts":4,"emptyCharts":0,"h":2075,"text":2233}
+admin-analytics {"hash":"#/admin/analytics","overflowX":false,"scrollW":1440,"clientW":1440,"wide":[],"charts":1,"emptyCharts":0,"h":1488,"text":2144} admin-analytics.png (1440x1488)
+admin-content {"hash":"#/admin/content","overflowX":false,"scrollW":1440,"clientW":1440,"wide":[],"charts":0,"emptyCharts":0,"h":1701,"text":1755} admin-content.png (1440x1701)
+record drawer {"hash":"#/admin/records","overflowX":false,"scrollW":1440,"clientW":1440,"wide":[],"charts":2,"emptyCharts":0,"h":4071,"text":7845} admin-record-drawer.png (1440x4071)
+records fail filter 28 of 56 records
+admin-records {"hash":"#/admin/records","overflowX":false,"scrollW":1440,"clientW":1440,"wide":[],"charts":2,"emptyCharts":0,"h":3993,"text":5914} admin-records.png (1440x3993)
+CONSOLE/PAGE ERRORS: [
+ "console.error: Warning: %s: Support for defaultProps will be removed from function components in a future major release. Use JavaScript default parameters instead.%s XAxis \n    at XAxis2 (http://localhost:5173/node_modules/.vite/deps/recharts.js?v=e995ac70:28465:22)\n    at svg\n    at Surface (http://localhost:5173/node_modules/.vite/deps/recharts.js?v=e995ac70:5886:25)\n    at div\n    at ChartLayoutContextProvide",
+ "console.error: Warning: %s: Support for defaultProps will be removed from function components in a future major release. Use JavaScript default parameters instead.%s YAxis \n    at YAxis2 (http://localhost:5173/node_modules/.vite/deps/recharts.js?v=e995ac70:28526:22)\n    at svg\n    at Surface (http://localhost:5173/node_modules/.vite/deps/recharts.js?v=e995ac70:5886:25)\n    at div\n    at ChartLayoutContextProvide",
+ "console.error: Warning: %s: Support for defaultProps will be removed from function components in a future major release. Use JavaScript default parameters instead.%s ReferenceLine \n    at ReferenceLine (http://localhost:5173/node_modules/.vite/deps/recharts.js?v=e995ac70:25278:22)\n    at svg\n    at Surface (http://localhost:5173/node_modules/.vite/deps/recharts.js?v=e995ac70:5886:25)\n    at div\n    at ChartLayou"
+]

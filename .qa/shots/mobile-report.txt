@@ -1,0 +1,23 @@
+m-dashboard {"hash":"#/","overflowX":false,"scrollW":390,"clientW":390,"wide":[],"charts":4,"emptyCharts":0,"h":4665,"text":2822} m-dashboard.png (390x4665)
+m-courses {"hash":"#/courses","overflowX":false,"scrollW":390,"clientW":390,"wide":[],"charts":0,"emptyCharts":0,"h":1981,"text":1563} m-courses.png (390x1981)
+m-resources {"hash":"#/resources","overflowX":false,"scrollW":390,"clientW":390,"wide":[],"charts":0,"emptyCharts":0,"h":10503,"text":6902} m-resources.png (390x10503)
+m-recs {"hash":"#/recommendations","overflowX":false,"scrollW":390,"clientW":390,"wide":[],"charts":0,"emptyCharts":0,"h":7308,"text":5546} m-recs.png (390x7308)
+m-path {"hash":"#/learning-path","overflowX":false,"scrollW":390,"clientW":390,"wide":[],"charts":0,"emptyCharts":0,"h":3741,"text":3263} m-path.png (390x3741)
+tab Topic analysis {"hash":"#/performance","overflowX":false,"scrollW":390,"clientW":390,"wide":["tab","tab-count","tab","[object SVGAnimatedString]","tab","[object SVGAnimatedString]"],"charts":2,"emptyCharts":0,"h":3186,"text":2414}
+tab Progress trend {"hash":"#/performance","overflowX":false,"scrollW":390,"clientW":390,"wide":["tab","tab-count","tab","[object SVGAnimatedString]","tab","[object SVGAnimatedString]"],"charts":5,"emptyCharts":0,"h":2961,"text":1966}
+tab Score prediction {"hash":"#/performance","overflowX":false,"scrollW":390,"clientW":390,"wide":["tab","tab-count","tab","[object SVGAnimatedString]","tab","[object SVGAnimatedString]"],"charts":1,"emptyCharts":0,"h":3560,"text":2286}
+tab Attempt history {"hash":"#/performance","overflowX":false,"scrollW":390,"clientW":390,"wide":["tab","tab-count","tab","[object SVGAnimatedString]","tab","[object SVGAnimatedString]"],"charts":0,"emptyCharts":0,"h":2608,"text":2300}
+m-tabs-view m-performance-tabs.png (390x844)
+m-performance {"hash":"#/performance","overflowX":false,"scrollW":390,"clientW":390,"wide":["tab","tab-count","tab","[object SVGAnimatedString]","tab","[object SVGAnimatedString]"],"charts":3,"emptyCharts":0,"h":4284,"text":2633} m-performance.png (390x4284)
+m-quiz-footer-view m-quiz-footer.png (390x844)
+m-quiz {"hash":"#/quiz/11","overflowX":false,"scrollW":390,"clientW":390,"wide":[],"charts":0,"emptyCharts":0,"h":2357,"text":1335} m-quiz.png (390x2357)
+m-admin {"hash":"#/admin","overflowX":false,"scrollW":390,"clientW":390,"wide":[],"charts":5,"emptyCharts":0,"h":6083,"text":3341} m-admin.png (390x6083)
+m-records {"hash":"#/admin/records","overflowX":false,"scrollW":390,"clientW":390,"wide":[],"charts":2,"emptyCharts":0,"h":5999,"text":5798} m-records.png (390x5999)
+m-content {"hash":"#/admin/content","overflowX":false,"scrollW":390,"clientW":390,"wide":["tab","tab-count"],"charts":0,"emptyCharts":0,"h":3037,"text":1711} m-content.png (390x3037)
+m-students {"hash":"#/admin/students","overflowX":false,"scrollW":390,"clientW":390,"wide":[],"charts":0,"emptyCharts":0,"h":1611,"text":1428} m-students.png (390x1611)
+m-analytics {"hash":"#/admin/analytics","overflowX":false,"scrollW":390,"clientW":390,"wide":["tab","tab","[object SVGAnimatedString]","[object SVGAnimatedString]","tab","[object SVGAnimatedString]"],"charts":1,"emptyCharts":0,"h":2621,"text":2103} m-analytics.png (390x2621)
+CONSOLE/PAGE ERRORS: [
+ "console.error: Warning: %s: Support for defaultProps will be removed from function components in a future major release. Use JavaScript default parameters instead.%s XAxis \n    at XAxis2 (http://localhost:5173/node_modules/.vite/deps/recharts.js?v=e995ac70:28465:22)\n    at svg\n    at Surface (http://localhost:5173/node_modules/.vite/deps/recharts.js?v=e995ac70:5886:25)\n    at div\n    at ChartLayoutContextProvide",
+ "console.error: Warning: %s: Support for defaultProps will be removed from function components in a future major release. Use JavaScript default parameters instead.%s YAxis \n    at YAxis2 (http://localhost:5173/node_modules/.vite/deps/recharts.js?v=e995ac70:28526:22)\n    at svg\n    at Surface (http://localhost:5173/node_modules/.vite/deps/recharts.js?v=e995ac70:5886:25)\n    at div\n    at ChartLayoutContextProvide",
+ "console.error: Warning: %s: Support for defaultProps will be removed from function components in a future major release. Use JavaScript default parameters instead.%s ReferenceLine \n    at ReferenceLine (http://localhost:5173/node_modules/.vite/deps/recharts.js?v=e995ac70:25278:22)\n    at svg\n    at Surface (http://localhost:5173/node_modules/.vite/deps/recharts.js?v=e995ac70:5886:25)\n    at div\n    at ChartLayou"
+]
